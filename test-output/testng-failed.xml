@@ -5,7 +5,15 @@
     <classes>
       <class name="MyTestCases">
         <methods>
+          <include name="TableExample"/>
           <include name="MouseHover"/>
+          <include name="iFrame"/>
+          <include name="ElementDisplayed"/>
+          <include name="Alert"/>
+          <include name="EnabledDisabled"/>
+          <include name="SwitchToWindow"/>
+          <include name="Calendar"/>
+          <include name="SwitchToTab"/>
           <include name="Setup"/>
         </methods>
       </class> <!-- MyTestCases -->

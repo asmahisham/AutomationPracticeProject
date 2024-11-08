@@ -1,5 +1,3 @@
-import static org.testng.Assert.fail;
-
 import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
